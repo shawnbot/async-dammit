@@ -1,6 +1,6 @@
 {
   "name": "async-dammit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an async helper for a synchronous world",
   "main": "index.js",
   "directories": {
