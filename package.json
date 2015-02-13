@@ -14,6 +14,10 @@
     "async"
   ],
   "author": "Shawn Allen <shawn.allen@gsa.gov>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shawnbot/async-dammit.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "mocha": "^2.1.0"
