@@ -1,0 +1,21 @@
+{
+  "name": "async-dammit",
+  "version": "1.0.0",
+  "description": "an async helper for a synchronous world",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "sync",
+    "async"
+  ],
+  "author": "Shawn Allen <shawn.allen@gsa.gov>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
